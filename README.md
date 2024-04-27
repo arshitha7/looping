@@ -1,4 +1,4 @@
-# # EX3(B)Looping
+# EX3(B)Looping
 Developed by: ARSHITHA MS
 
 Register number: 212223240015
